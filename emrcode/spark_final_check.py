@@ -9,7 +9,7 @@ import boto3
 import pyspark.sql.utils
 
 
-# Initializing Spark
+# Initializing Spark session
 
 spark = SparkSession.builder.appName("Demo").getOrCreate()
 
