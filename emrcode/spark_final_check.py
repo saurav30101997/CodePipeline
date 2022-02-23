@@ -1,4 +1,4 @@
-# Importing necessary packages
+# Importing necessary package
 
 import json
 from pyspark.sql.types import DecimalType,StringType
